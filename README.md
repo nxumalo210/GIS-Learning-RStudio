@@ -1,0 +1,1 @@
+These are clips of code and resultant images of a map done while parsing through the book, Mapping Worlds with R: Your Journey from Beginner to Data Cartographer by Milos Popovic. The maps show the difference in projections EPSG 4326 and the Robinson Projection. 
